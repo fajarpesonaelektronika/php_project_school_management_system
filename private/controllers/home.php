@@ -5,7 +5,7 @@
  */
 class Home extends Controller {
 	
-	function __construct() {
+	function index() {
 		echo "this is the home controller";
 	}
 }
